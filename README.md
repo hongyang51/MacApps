@@ -21,7 +21,6 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 > - 已经开始整理app版本，部分已经支持历史版本
 
 - **Alfred V3.5**（亲测10.12.5可用）：神器，不解释
-- 在线电视播放器 V5.4
 - Spectacle
 - VMware Fusion V8.5.3
 - Syncios Data Transfer
@@ -55,7 +54,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - Things V2.8
 - Adobe CC 2017套件
 - Reader V3.0
-- Clean my mac V3.9 正式版 （使用时尽力不要使用代理，可能被官方反破解系统发现而致闪退）  地址: http://pan.baidu.com/s/1dFtSjfz
+- Clean my mac V3.9 正式版 （使用时尽力不要使用代理，可能被官方反破解系统发现而致闪退）  地址: http://pan.baidu.com/s/1dFtSjfz (app百度云已收录)
 - Logic Pro X V10.3.1
 - 1Password V6.6.4
 - Team viewer
@@ -96,7 +95,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **Matlab R2017a**:Mac下一款数学软件
 - **CloudTV V3.7.7**：一款电视直播软件，能够收看来自世界各地超过400个电视频道直播，只需wifi
 - **Membrane Pro V1.0.8**：一款封面制作软件
-- **Downie V3.0**：一款视频下载软件，支持YouTube，Vimeo 等大部分主流视频网站，支持国内的优酷和土豆
+- **Downie V3.1.3**：一款视频下载软件，支持YouTube，Vimeo 等大部分主流视频网站，支持国内的优酷和土豆
 - **Screens V4.0.3**：一款VNC客户终端，它能够自由的访问远程计算机设备，方便用户使用
 - **Money Pro V1.8.4**：一款强大的个人理财软件，它可以帮助你轻松管理平时财务记录，而且完全中文界面
 - **SaveHollywood**:可以设置视频的屏保插件
@@ -109,7 +108,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **Principle V3.0**：一款交互设计软件，它可以帮助你制作出一个完整交互动画的原型，非常强大
 - **Dash V4.0.5**：api下载工具，可以离线查看api
 - **Sparkle V2.1.4**：一款Mac平台的可视化网页设计工具 ，可以帮助web开发者非常方便地设计web页面，同时对于新手而言也更加容易上手，是web设计者不可多得的网页设计工具
-- **Day One V2.1.8**：ios&mac备受好评的日记应用，可以说没有之一，无需多言
+- **Day One V2.1.8**：ios&mac备受好评的日记应用，可以说没有之一，无需多言（注：2.1.8版本为目前唯一可破解版本，不要随意升级！）
 - **Falcon V1.5**:Falcon是一个简单的、基础的笔记应用程序，它支持从本地直接拖拽图片到编辑区。Falcon还添加了Code、To-Do 语法，而且代码块还支持高亮以及行数标记
 - **ProPrompter V5.0.3**:一款专业的提词器软件
 - **MyEclipse V2017 CI 2 Mac破解版**：不必多言
@@ -132,11 +131,17 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **Autodesk Maya 2018.1**:Autodesk Maya 是一款Mac OS平台上的业界顶级的三维动画软件，由todesk公司出品的。可以说是三维动画制作必备工具，集成 Bifrost , Bifrost Node Editor 材质编辑器, 渲染窗口, 建模工具, 菜单显示优化, 插件管理器优化等
 - **在线视频播放器 V9.6**：最全的国内在线电视频道，而且支持订阅网上的视频集
 - **Navicat Premium 12.0.13**：一个可多重连接的数据库管理工具，支持的数据库有： MySQL、SQL Server、SQLite、Oracle 及 PostgreSQL。让管理不同类型的数据库更加方便
+- **Qbserve V1.68**：一款自动私人时间跟踪软件，Qbserve给你关于你通过智能主动观察应用程序花费你的时间的方式即时解答。所有跟踪的信息被存储私下你的机器上
+- **PhotoZoom Pro V7.0.6**：最大特色是可以对图片进行放大或缩小而没有锯齿、较少失真
+- **Yate V3.17.4.1**:Yate是一款Mac平台的音乐标签及管理工具，能够帮助我们轻松编辑音乐文件的元标签数据，支持MP3, M4A, MP4，AIFF, FLAC, WAV以及 DSF格式的音频文件，我们可以利用这款软件轻松管理我们的音乐文件
 
 ---
 ### 2. 游戏类
 
-游戏类下载地址：链接屡次被吞，现改为发邮件索取链接，请发邮件到lxxlxx888@163.com或lxxlxx8888@outlook.com获取链接，会及时处理的。
+游戏类下载地址：<https://pan.baidu.com/s/1geNyL7H>
+
+>  注：如链接失效，请发邮件（注明需要的游戏）到lxxlxx888@163.com或lxxlxx8888@outlook.com获取链接，会及时处理的。
+
 > 如安装app时需要密码：www.konami.cc 或 konami.cc
 
 - 瘟疫公司（Plague.inc.Evolved）V1.0
@@ -187,6 +192,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - 仙剑奇侠传5 mac移植版
 - Samorost 3（银河历险记3）V1.1
 - 里奥的秘密 V1.0
+- （我的世界）Minecraft V1.7.2整合(含Forge)
 
 ---
 ### 屏保插件
